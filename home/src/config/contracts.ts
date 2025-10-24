@@ -1,6 +1,6 @@
 export const SEPOLIA_CHAIN_ID = 11155111;
 
-export const DEFAULT_CONTRACT_ADDRESS = "";
+export const DEFAULT_CONTRACT_ADDRESS = "0x06d975009f520478640dB355D34E5C7BcA74B2EF";
 
 // ABI generated from deployments/sepolia/ZamaLottery.json
 export const CONTRACT_ABI = [
