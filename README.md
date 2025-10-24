@@ -1,4 +1,4 @@
-# Zama Lottery 🎰
+# Z Lottery 🎰
 
 A decentralized, privacy-preserving lottery system built on Ethereum using Zama's Fully Homomorphic Encryption (FHE) technology. Players purchase NFT-based lottery tickets with encrypted random numbers that can be "scratched" to reveal winning results, ensuring fairness and transparency without compromising privacy.
 
@@ -22,11 +22,11 @@ A decentralized, privacy-preserving lottery system built on Ethereum using Zama'
 
 ## 🎯 Overview
 
-Zama Lottery is a revolutionary blockchain-based lottery system that leverages Fully Homomorphic Encryption (FHE) to create a provably fair, transparent, and privacy-preserving gaming experience. Unlike traditional lotteries that rely on trusted third parties or centralized random number generators, Zama Lottery uses cryptographic encryption to ensure that lottery numbers remain confidential until they are revealed, preventing any possibility of manipulation.
+Z Lottery is a revolutionary blockchain-based lottery system that leverages Fully Homomorphic Encryption (FHE) to create a provably fair, transparent, and privacy-preserving gaming experience. Unlike traditional lotteries that rely on trusted third parties or centralized random number generators, Z Lottery uses cryptographic encryption to ensure that lottery numbers remain confidential until they are revealed, preventing any possibility of manipulation.
 
 Each lottery ticket is an ERC721 NFT containing an encrypted random number. Players can "scratch" their tickets to request decryption through Zama's oracle network, revealing whether they've won. The winning condition is simple: all four digits of the revealed number must be identical (e.g., 0000, 1111, 2222, ..., 9999).
 
-### Why Zama Lottery?
+### Why Z Lottery?
 
 - **True Randomness**: Cryptographically secure random number generation using blockchain properties
 - **Privacy-First**: Numbers remain encrypted until scratched, ensuring no one can peek at results

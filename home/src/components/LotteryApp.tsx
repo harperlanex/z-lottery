@@ -306,7 +306,7 @@ export function LotteryApp() {
     <div className="lottery-app">
       <header className="lottery-app__header">
         <div className="lottery-app__brand">
-          <h1>Zama Lottery</h1>
+          <h1>Z Lottery</h1>
           <p>Encrypted scratch-off tickets on Sepolia</p>
         </div>
         <ConnectButton />
